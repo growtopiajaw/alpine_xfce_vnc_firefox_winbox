@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=winbox
+Comment=
+Exec=wine /root/winbox.exe
+Icon=/root/winbox.ico
+Path=
+Terminal=false
+StartupNotify=false
